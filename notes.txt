@@ -1,0 +1,5 @@
+@ means it is an away game, blank means home.
+
+W/L: -wo indicates it was a walkoff win or loss.
+
+Attendance: tickets sold in home games. ???
